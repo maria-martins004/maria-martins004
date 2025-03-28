@@ -14,3 +14,9 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 <!--   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"> -->
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: prussian)" srcset="https://raw.githubusercontent.com/maria-martins004/maria-martins004/output/github-contribution-grid-snake-prussian.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maria-martins004/maria-martins004/output/github-contribution-grid-snake-prussian.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maria-martins004/maria-martins004/output/github-contribution-grid-snake.svg">
+</picture>
