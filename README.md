@@ -14,5 +14,3 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 <!--   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"> -->
 </div>
-
-![Snake animation](https://github.com/maria-martins004/maria-martins004/blob/output/github-contribution-grid-snake.svg)
