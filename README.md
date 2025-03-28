@@ -31,7 +31,7 @@
 </div>
 
 
-#
+<!-- # -->
 
 
 <!--   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"> -->
@@ -39,8 +39,8 @@
 <!-- height="25" alt="c logo"   -->
 <!--  height="25" alt="mysql logo -->
 <!--   <img width="8" /> -->
-<picture align="center">
+<!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-martins004/maria-martins004/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maria-martins004/maria-martins004/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maria-martins004/maria-martins004/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
