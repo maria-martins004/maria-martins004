@@ -1,4 +1,4 @@
-<h2 color="#63C5DA">Olá, meu nome é Maria!<br>Bem-Vindo ao meu perfil!</h2>
+<h3 color="#63C5DA">Olá, meu nome é Maria, muito prazer!</h3>
 
 
 #
