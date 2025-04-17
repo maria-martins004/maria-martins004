@@ -1,4 +1,4 @@
-<h3 color="#63C5DA">Olá, meu nome é Maria, muito prazer!</h3>
+<h3 align="center" color="#63C5DA">Olá, meu nome é Maria, muito prazer!</h3>
 
 
 #
