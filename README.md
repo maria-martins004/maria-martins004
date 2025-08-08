@@ -3,7 +3,7 @@
 
 #
 
-<p align="center">Estagiária na área de Tecnologia da Informação, atualmente cursando o terceiro semestre de Ciência da Computação na Universidade Barão de Mauá.<br> No momento estou obtendo conhecimentos em php, javascript, c++, mysql, html e css.</p>
+<p align="center">Estagiária na área de Tecnologia da Informação, atualmente cursando o terceiro semestre de Ciência da Computação na Universidade Barão de Mauá.<br> No momento estou obtendo conhecimentos em php, laravel, javascript, c++, mysql, html e css.</p>
 
 
 #
