@@ -17,12 +17,15 @@ Tenho interesse em metodologias ágeis e busco constantemente aprender novas fer
 
 <div align="center">
   <a href="https://github.com/maria-martins004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-martins004&show_icons=true&theme=prussian&include_all_commits-true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-martins004&layout=compact&langs_count=16&theme=prussian"/> 
+  <div>
+    <br>
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-martins004&show_icons=true&theme=prussian&include_all_commits-true&count_private=true"/>
+    <img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-martins004&layout=compact&langs_count=16&theme=prussian"/> 
+  </div>
 </div>
 
     
-#
+ #
 
 
 <div align="center"style="display: inline_block"><br>
@@ -30,12 +33,16 @@ Tenho interesse em metodologias ágeis e busco constantemente aprender novas fer
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-</div>
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"/> 
+  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
+  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> 
+  <img align="center" alt="SQL Serve" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/> 
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/> 
+  <!-- <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>  --> 
+</div> 
 
-
-<!-- # -->
+ 
 
 
 <!--   <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"> -->
