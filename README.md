@@ -3,7 +3,7 @@
 
 #
 
-Estudante de Ciência da Computação no Centro Universitário Barão de Mauá, em Ribeirão Preto, com foco em aprendizado contínuo e desenvolvimento de projetos práticos. A disciplina Fábrica de Software tem ampliado minha visão sobre o ciclo de desenvolvimento, desde a fase inicial até a entrega final. 
+Estudante de Ciência da Computação no Centro Universitário Barão de Mauá, em Ribeirão Preto, com foco em aprendizado contínuo e desenvolvimento de projetos práticos, experiência que tem sido enriquecida pela disciplina Fábrica de Software, a qual ampliou minha visão sobre o ciclo de desenvolvimento, desde a fase inicial até a entrega final.
 
 Tenho experiência em projetos com PHP, JavaScript, MySQL, HTML e CSS, e atualmente atuo como estagiária utilizando Laravel (framework PHP), SQL, além de estar iniciando na análise de dados e oferecer suporte aos colaboradores no sistema da empresa.
 
