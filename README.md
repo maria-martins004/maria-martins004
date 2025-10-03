@@ -3,10 +3,10 @@
 
 #
 
-<p align="center">Estudante de Ciência da Computação no Centro Universitário Barão de Mauá, em Ribeirão Preto, com foco em aprendizado contínuo e desenvolvimento de projetos práticos. A disciplina Fábrica de Software tem ampliado minha visão sobre o ciclo de desenvolvimento, desde a fase inicial até a entrega final. </p>
-<p align="center">Tenho experiência em projetos com PHP, JavaScript, MySQL, HTML e CSS, e atualmente atuo como estagiária utilizando Laravel (framework PHP), SQL, além de estar iniciando na análise de dados e oferecer suporte aos colaboradores no sistema da empresa.</p> 
-<p align="center">Por meio do curso, também estou obtendo conhecimentos em C++ e Java.</p> 
-<p align="center">Tenho interesse em metodologias ágeis e busco constantemente aprender novas ferramentas que auxiliem na colaboração em equipe e organização de projetos. Meu foco é o desenvolvimento contínuo, sempre em busca de novos aprendizados e oportunidades que me permitam crescer profissionalmente e contribuir de forma significativa.</p>
+<p align="center">Estudante de Ciência da Computação no Centro Universitário Barão de Mauá, em Ribeirão Preto, com foco em aprendizado contínuo e desenvolvimento de projetos práticos. A disciplina Fábrica de Software tem ampliado minha visão sobre o ciclo de desenvolvimento, desde a fase inicial até a entrega final. 
+Tenho experiência em projetos com PHP, JavaScript, MySQL, HTML e CSS, e atualmente atuo como estagiária utilizando Laravel (framework PHP), SQL, além de estar iniciando na análise de dados e oferecer suporte aos colaboradores no sistema da empresa.
+Por meio do curso, também estou obtendo conhecimentos em C++ e Java.
+Tenho interesse em metodologias ágeis e busco constantemente aprender novas ferramentas que auxiliem na colaboração em equipe e organização de projetos. Meu foco é o desenvolvimento contínuo, sempre em busca de novos aprendizados e oportunidades que me permitam crescer profissionalmente e contribuir de forma significativa. </p> 
 
 
 #
